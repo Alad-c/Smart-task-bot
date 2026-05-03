@@ -1,5 +1,6 @@
 # 📋 Smart Task Manager Bot
 
+[🚀 Try the Bot Live](https://t.me/vlad_task_manager_2026_bot)
 A professional Telegram bot designed to help users organize their daily tasks with automated categorization.
 
 ## 🚀 Features
@@ -23,6 +24,7 @@ A professional Telegram bot designed to help users organize their daily tasks wi
    ```
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the bot: `python bot.py`
+5. Note: This demo uses a local SQLite database on an ephemeral file system. Data may be cleared during server restarts.
 
 ## 👨‍💻 Author
 **Vladyslav Holub**  
