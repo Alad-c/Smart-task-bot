@@ -25,6 +25,7 @@ A professional Telegram bot designed to help users organize their daily tasks wi
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the bot: `python bot.py`
 5. Note: This demo uses a local SQLite database on an ephemeral file system. Data may be cleared during server restarts.
+<img width="1054" height="846" alt="Screenshot 2026-06-27 at 13 42 07" src="https://github.com/user-attachments/assets/075b3dc0-e731-4553-a982-82922c0fda04" />
 
 ## 👨‍💻 Author
 **Vladyslav Holub**  
